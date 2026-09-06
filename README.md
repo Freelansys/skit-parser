@@ -134,4 +134,4 @@ npm run clean          # remove dist/
 
 ## License
 
-UNLICENSED
+MIT — see [LICENSE](./LICENSE). Copyright (c) 2026 Ramin Barati.

@@ -1,7 +1,8 @@
 {
     "name": "skit-parser",
     "version": "0.1.0",
-    "description": "",
+    "description": "Tokenizer and parser for SKIT (Structured Kernel for Implementation Templates)",
+    "license": "MIT",
     "type": "module",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
@@ -12,7 +13,8 @@
         }
     },
     "files": [
-        "dist"
+        "dist",
+        "LICENSE"
     ],
     "scripts": {
         "build": "tsc",
